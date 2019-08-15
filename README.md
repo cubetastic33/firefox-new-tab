@@ -9,4 +9,4 @@ A working method to set a custom page as your new tab page in Firefox Quantum, V
 + Restart firefox
 + Done!
 
-Tested on Firefox Quantum 68.0.1, on Arch Linux
+Tested on Firefox Quantum 68.0.2, running on Arch Linux
